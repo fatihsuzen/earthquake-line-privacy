@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Gizlilik Politikası | Deprem Hattı / Earthquake Line</title>
+  <meta name="description" content="Deprem Hattı / Earthquake Line gizlilik politikası" />
+  <style>
+    :root { --fg:#111; --bg:#fff; --muted:#666; --card:#f6f6f7; --link:#0b57d0; }
+    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color:var(--fg); background:var(--bg); line-height:1.55; }
+    header { padding:28px 18px; background:var(--card); border-bottom:1px solid #e6e6e9; }
+    main { max-width: 900px; margin: 0 auto; padding: 22px 18px 60px; }
+    h1 { margin:0 0 6px; font-size: 22px; }
+    .sub { color:var(--muted); margin:0; }
+    h2 { margin-top: 26px; font-size: 18px; }
+    p, li { font-size: 15px; }
+    code { background:#efeff2; padding:2px 6px; border-radius:6px; }
+    a { color:var(--link); }
+    .lang { display:flex; gap:10px; margin-top:10px; flex-wrap:wrap; }
+    .badge { display:inline-block; padding:6px 10px; border-radius:999px; background:#fff; border:1px solid #e6e6e9; font-size: 13px; color: var(--muted); }
+    footer { max-width:900px; margin:0 auto; padding: 18px; color: var(--muted); border-top: 1px solid #e6e6e9; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gizlilik Politikası</h1>
+    <p class="sub">Deprem Hattı / Earthquake Line</p>
+    <div class="lang">
+      <span class="badge">Son güncelleme: 27 Aralık 2025</span>
+      <span class="badge">İletişim: <a href="mailto:fsapps.studio@gmail.com">fsapps.studio@gmail.com</a></span>
+    </div>
+  </header>
+
+  <main>
+    <h2>1) Kapsam</h2>
+    <p>
+      Bu gizlilik politikası, <strong>Deprem Hattı</strong> (İngilizce adı: <strong>Earthquake Line</strong>) mobil uygulamasının
+      kullanıcı verilerini nasıl topladığını, kullandığını ve koruduğunu açıklar.
+    </p>
+
+    <h2>2) Topladığımız Veriler</h2>
+    <ul>
+      <li><strong>E-posta adresi</strong> (Google ile giriş ve hesabı tanımlamak için)</li>
+      <li><strong>Ad ve soyad</strong> (uygulama içinde, ör. sohbet ekranında gösterim için)</li>
+      <li><strong>Konum bilgisi</strong> (haritada görüntüleme ve arkadaşlarla konum paylaşımı özellikleri için)</li>
+      <li><strong>Cihaz sensör verileri</strong> (ivmeölçer ve jiroskop; deprem algılama/erken uyarı işlevleri için)</li>
+    </ul>
+
+    <h2>3) İleride Toplanabilecek Veriler</h2>
+    <ul>
+      <li><strong>Adres bilgisi</strong>: Gelecekte bir özellik kapsamında kullanıcı tarafından sağlanması halinde toplanabilir. (Şu an zorunlu değildir.)</li>
+    </ul>
+
+    <h2>4) Verileri Kullanma Amaçlarımız</h2>
+    <ul>
+      <li>Hesap oluşturma, oturum açma (Google ile giriş) ve hesap yönetimi</li>
+      <li>Harita üzerinde konum görüntüleme ve konum paylaşımı</li>
+      <li>Deprem bildirimi ve uygulama işlevlerinin sağlanması</li>
+      <li>Uygulama içi deneyim (ör. sohbet ekranında ad/soyad gösterimi)</li>
+    </ul>
+
+    <h2>5) Üçüncü Taraf Hizmetler</h2>
+    <p>
+      Verilerinizi satmayız. Uygulamanın çalışması için bazı hizmet sağlayıcılar kullanılabilir:
+    </p>
+    <ul>
+      <li><strong>Google Firebase</strong>: Bildirim gönderimi ve altyapı amaçlarıyla kullanılmaktadır (örn. FCM). Firebase, hizmetin sağlanması sırasında bazı verileri işleyebilir.</li>
+    </ul>
+    <p>
+      Not: Uygulama paketlerinde OneSignal gibi kütüphaneler bulunabilir ancak aktif kullanım durumu değişebilir. Kullanılan SDK/servisler değiştikçe bu politika güncellenir.
+    </p>
+
+    <h2>6) Verilerin Saklanması ve Güvenlik</h2>
+    <ul>
+      <li>Kullanıcı verileri kendi sunucularımızda ve <strong>MongoDB</strong> veritabanında saklanabilir.</li>
+      <li>Verilerin güvenliği için makul teknik ve idari önlemler uygulanır (ör. yetkilendirme kontrolleri, güvenli bağlantı kullanımı).</li>
+    </ul>
+
+    <h2>7) Saklama Süresi</h2>
+    <p>
+      Veriler, hizmeti sağlamak için gerekli olduğu süre boyunca veya yasal yükümlülükler kapsamında gerektiği süre boyunca saklanabilir.
+    </p>
+
+    <h2>8) Silme Talepleri</h2>
+    <p>
+      Şu an uygulama içinde otomatik “hesap silme” akışı bulunmayabilir.
+      Veri silme talebi için bize e-posta ile ulaşabilirsiniz; talebiniz doğrulandıktan sonra mümkün olan en kısa sürede silme işlemi yapılır.
+    </p>
+    <p><strong>İletişim:</strong> <a href="mailto:fsapps.studio@gmail.com">fsapps.studio@gmail.com</a></p>
+
+    <h2>9) Hedef Kitle</h2>
+    <p>
+      Uygulama genel kitleye yöneliktir ve belirli bir yaş grubunu hedeflemez.
+    </p>
+
+    <h2>10) Değişiklikler</h2>
+    <p>
+      Bu gizlilik politikası zaman zaman güncellenebilir. Güncel sürüm her zaman bu sayfada yayınlanır.
+    </p>
+
+    <hr style="margin:28px 0; border:none; border-top:1px solid #e6e6e9;">
+
+    <h1 style="font-size:20px; margin-top:0;">Privacy Policy</h1>
+    <p class="sub">Earthquake Line (Turkish name: Deprem Hattı)</p>
+
+    <h2>1) Scope</h2>
+    <p>
+      This Privacy Policy explains how <strong>Earthquake Line</strong> collects, uses, and protects user data.
+    </p>
+
+    <h2>2) Data We Collect</h2>
+    <ul>
+      <li><strong>Email address</strong> (Google sign-in and account identification)</li>
+      <li><strong>Name and surname</strong> (displayed in-app, e.g., chat screen)</li>
+      <li><strong>Location data</strong> (to display on map and share location with friends)</li>
+      <li><strong>Device sensor data</strong> (accelerometer and gyroscope for earthquake detection/early-warning features)</li>
+    </ul>
+
+    <h2>3) Potential Future Data</h2>
+    <ul>
+      <li><strong>Address</strong>: may be collected if a future feature requires user-provided address (not mandatory at the moment).</li>
+    </ul>
+
+    <h2>4) How We Use Data</h2>
+    <ul>
+      <li>Account sign-in and management</li>
+      <li>Map and location sharing features</li>
+      <li>Earthquake notifications and core functionality</li>
+      <li>In-app experience (e.g., name display in chat)</li>
+    </ul>
+
+    <h2>5) Third-Party Services</h2>
+    <p>
+      We do not sell user data. We may use service providers such as <strong>Google Firebase</strong> (e.g., FCM for notifications/infrastructure),
+      which may process certain data to provide the service.
+    </p>
+
+    <h2>6) Storage & Security</h2>
+    <p>
+      Data may be stored on our servers and in a <strong>MongoDB</strong> database. We apply reasonable security measures.
+    </p>
+
+    <h2>7) Retention</h2>
+    <p>
+      We retain data as long as necessary to provide the service or as required by law.
+    </p>
+
+    <h2>8) Deletion Requests</h2>
+    <p>
+      In-app deletion flow may not be available yet. You can request deletion by emailing:
+      <a href="mailto:fsapps.studio@gmail.com">fsapps.studio@gmail.com</a>
+    </p>
+
+    <h2>9) Audience</h2>
+    <p>
+      The app is intended for a general audience and does not target a specific age group.
+    </p>
+
+    <h2>10) Updates</h2>
+    <p>
+      We may update this policy. The latest version will always be published on this page.
+    </p>
+  </main>
+
+  <footer>
+    © 2025 FSApps Studio — Deprem Hattı / Earthquake Line
+  </footer>
+</body>
+</html>
